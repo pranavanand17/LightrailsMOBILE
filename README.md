@@ -1,6 +1,5 @@
 # Lightrails
-<img width="400" height="226" alt="Lightrails" src="https://github.com/user-attachments/assets/87deabc9-4528-419d-a1ad-c394f96e6104" />
-
+<img width="1362" height="763" alt="image" src="https://github.com/user-attachments/assets/ff423030-4808-465a-89e5-13131bfe685a" />
 
 I keep starting projects without finishing them huh
 
